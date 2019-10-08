@@ -41,3 +41,7 @@ Azure environment
 ### Start a Container and find the latest Ubuntu precise image.
 * [Script](https://github.com/gabiliberato/Terraform_Scripts/blob/master/StartContainer.tf)
 Azure environment
+
+### Publicly Accessible Virtual Machine
+* [Script](https://github.com/gabiliberato/Terraform_Scripts/blob/master/StartContainer.tf)
+Complex example where I create a publicly accessible virtual machine, complete with external IP address and storage.
