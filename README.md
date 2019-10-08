@@ -37,3 +37,7 @@ Azure environment
 ### Public IP
 * [Script](https://github.com/gabiliberato/Terraform_Scripts/blob/master/terraformpublicip.tf)
 Azure environment
+
+### Start a Container and find the latest Ubuntu precise image.
+* [Script](https://github.com/gabiliberato/Terraform_Scripts/blob/master/StartContainer.tf)
+Azure environment
